@@ -1,0 +1,2 @@
+----------------accel_web_server.ino--------------
+- uses ARD Wifi R4 and Adafruit ADXL 345 accelerometer
